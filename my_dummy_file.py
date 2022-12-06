@@ -1,7 +1,7 @@
-# Copyright 2009-2022 Blah SA
+# Copyright (C) 2009-2022 Blah SA
 # All rights reserved
 # mailto:info AT blah DOT com
 
-print("dxumxmyx")
+print("dxumxmyxx")
 print("Hello World")
 
