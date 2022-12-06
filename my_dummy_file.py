@@ -2,6 +2,6 @@
 # All rights reserved
 # mailto:info AT blah DOT com
 
-print("dummyx")
+print("dumxmyx")
 print("Hello World")
 
